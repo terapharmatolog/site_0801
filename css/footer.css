@@ -1,0 +1,33 @@
+/* --------------------Footer----------------------------  */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  min-height: 398px;
+  border-top: 5px solid #65a526;
+  padding: 30px 0;
+  color: #70492d;
+}
+
+.footer_left-block {
+  display: flex;
+  gap: 80px;
+  margin-left: 34px;
+  line-height: 28px;
+}
+.footer_right-block {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-right: 34px;
+  max-width: 160px;
+}
+.footer_social,
+.footer_contacts,
+.footer_info {
+  text-align: right;
+}
+
+.footer_contacts {
+  font-size: 18px;
+  font-weight: 700;
+}
