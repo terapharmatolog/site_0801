@@ -10,7 +10,7 @@
   align-items: center;
 }
 .logo_img {
-  background-image: url("/img/logo.png");
+  background-image: url("../img/logo.png");
   display: block;
   width: 308px;
   height: 71px;
