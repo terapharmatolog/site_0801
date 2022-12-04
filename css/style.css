@@ -1,11 +1,11 @@
-@import url("/css/nullification.css");
+@import url("nullification.css");
 /* ---------------- Base Layout ---------------- */
-@import url("/css/base.css");
+@import url("base.css");
 /*----------------------------------Header----------------------------------*/
-@import url("/css/header.css");
+@import url("header.css");
 /*----------------------------------Footer----------------------------------*/
-@import url("/css/footer.css");
+@import url("footer.css");
 /* -------------------Aside------------------- */
-@import url("/css/aside.css");
+@import url("aside.css");
 /* -------------------Main------------------- */
-@import url("/css/main.css");
+@import url("main.css");
