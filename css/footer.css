@@ -7,6 +7,9 @@
   padding: 30px 0;
   color: #70492d;
 }
+.footer a:hover{
+  color:#65a526;
+}
 
 .footer_left-block {
   display: flex;
