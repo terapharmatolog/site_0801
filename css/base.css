@@ -21,8 +21,9 @@ body {
 
 header {
   background-color: #ffff;
-  width: 100%;
+  width: 1281px;
   min-height: 110px;
+  position: fixed;
 }
 
 footer {
@@ -32,4 +33,3 @@ footer {
 aside {
   flex-basis: 20%;
 }
-

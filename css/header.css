@@ -2,11 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+
   border-top: 5px solid #65a526;
   padding: 17px 20px;
 }
-.header a:hover{
-  color:#65a526;
+.header a:hover {
+  color: #65a526;
 }
 .header_main {
   display: flex;
