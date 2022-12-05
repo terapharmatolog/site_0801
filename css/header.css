@@ -37,11 +37,16 @@
 }
 .basket h3 {
   color: #65a526;
+  margin-top: 6px;
 }
 .basket p {
+  margin-bottom: 6px;
+  text-align: right;
+}
+.basket a {
   font-size: 14px;
   text-align: right;
-  margin: 0 0 6px;
+  color: #65a526;
 }
 .basket p:first-child {
   color: #65a526;
