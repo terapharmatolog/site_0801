@@ -4,6 +4,7 @@
   flex-direction: column;
   gap: 20px;
   padding: 40px;
+  padding-bottom: 150px;
 }
 .navigation a {
   color: #65a526;
