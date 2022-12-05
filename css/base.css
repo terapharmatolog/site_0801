@@ -26,6 +26,12 @@ header {
   position: fixed;
 }
 
+main {
+  padding-top: 120px;
+}
+aside {
+  padding-top: 120px;
+}
 footer {
   background-color: #ffff;
 }
