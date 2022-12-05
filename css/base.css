@@ -32,3 +32,6 @@ footer {
 aside {
   flex-basis: 20%;
 }
+.header, .footer a:hover{
+  color:#65a526;
+}
